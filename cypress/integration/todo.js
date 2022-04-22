@@ -1,6 +1,6 @@
 /// <reference types = "cypress" />
 
-import './PageObject/util.js'
+import './Uilities/util.js'
 
 describe ("PARiM Assignment",()=>{
 
